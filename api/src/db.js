@@ -1,3 +1,4 @@
+//hace la conexion
 require('dotenv').config();
 const { Sequelize } = require('sequelize');
 const fs = require('fs');
